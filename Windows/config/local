@@ -1,0 +1,5 @@
+driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+url: jdbc:sqlserver://localhost;databaseName=my_database
+username: sa
+password: xyzdummy
+contexts: local
